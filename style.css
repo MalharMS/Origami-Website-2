@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@1,600&display=swap');
+
+body {
+    background-color: #edf2f4;
+}
+
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: #000;
+    height: 35px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    align-items: center;
+}
+
+.text1 {
+    color: #fca311;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Vollkorn', sans-serif;
+    position: absolute;
+    margin: -600px 560px;
+    padding: 30px;
+}
+.heading1 {
+    margin: -32% 50px;
+    position: absolute;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 50px ;
+    padding: 10px;
+}
+
+.aboutlink {
+    color: rgb(252, 252, 252);
+    text-decoration: none;
+    font-size: 12px;
+    text-align: center;
+}
+
+.grid img {
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50px;
+}
+
+.origami {
+    background-color: #b2f7ef;
+    align-items: center;
+    color: #2b2d42;
+    font-weight: bold;
+    text-align: center;
+    font-family: fantasy;
+    width: 350px;
+    box-shadow: 3px 2px 10px 2px #cccccc;
+    
+}
+.origami1 {
+    background-color: #f7d6e0;
+    align-items: center;
+    color: #2b2d42;
+    font-weight: bold;
+    text-align: center;
+    font-family: fantasy;
+    width: 350px;
+    box-shadow: 2px -1px 20px 2px #969696;
+    
+}
+
+.btn {
+    position: inherit;
+    padding: 1px;
+    border: none;
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgb(79, 255, 94);
+    width: 22rem;
+    height: 2rem;
+    color: azure;
+    font-size: x-large;
+    cursor: pointer;
+    
+}
+.btn1 {
+
+    margin: 2.2rem -11rem;
+    position: absolute;
+    padding: 1px;
+    border: none;
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgb(79, 255, 94);
+    width: 22rem;
+    height: 2rem;
+    color: azure;
+    font-size: x-large;
+    cursor: pointer;
+    
+}
+.btn2 {
+
+    margin: 3.5rem -11rem;
+    position: absolute;
+    padding: 1px;
+    border: none;
+    border-radius: 10px 10px 0px 0px;
+    background-color: #ef233c;
+    width: 21.9rem;
+    height: 2rem;
+    color: azure;
+    font-size: x-large;
+    cursor: pointer;
+    
+}
+.btn3 {
+    position: inherit;
+    padding: 1px;
+    border: none;
+    border-radius: 10px 10px 0px 0px;
+    background-color: #ef233c;
+    width: 22rem;
+    height: 2rem;
+    color: azure;
+    font-size: x-large;
+    cursor: pointer;
+    
+}
